@@ -1,1 +1,2 @@
-# devoxx2015
+README for barbus
+==========================
